@@ -1,0 +1,15 @@
+﻿  Restaurant.cpp
+c:\users\dwmik\desktop\tempcpp\project2\project2\restaurant.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\dwmik\desktop\tempcpp\project2\project2\restaurant.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\dwmik\desktop\tempcpp\project2\project2\restaurant.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\dwmik\desktop\tempcpp\project2\project2\restaurant.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\dwmik\desktop\tempcpp\project2\project2\restaurant.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\dwmik\desktop\tempcpp\project2\project2\restaurant.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\dwmik\desktop\tempcpp\project2\project2\restaurant.cpp(383): warning C4018: '<': signed/unsigned mismatch
+c:\users\dwmik\desktop\tempcpp\project2\project2\restaurant.cpp(404): warning C4018: '<': signed/unsigned mismatch
+  Order.cpp
+c:\users\dwmik\desktop\tempcpp\project2\project2\order.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\dwmik\desktop\tempcpp\project2\project2\order.cpp(52): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project2.vcxproj -> C:\Users\dwmik\Desktop\tempcpp\Project2\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\dwmik\Desktop\tempcpp\Project2\Debug\Project2.pdb (Partial PDB)

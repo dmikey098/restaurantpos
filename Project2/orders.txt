@@ -1,0 +1,5 @@
+1,Single Cheeseburger,Single hamburger with cheese,2.990000,0
+2,Single Cheeseburger,Single hamburger with cheese,2.990000,1
+3,Single Cheeseburger,Single hamburger with cheese,2.990000,0
+3,Single Cheeseburger,Single hamburger with cheese,2.990000,0
+4,Single Cheeseburger,Single hamburger with cheese,2.990000,0

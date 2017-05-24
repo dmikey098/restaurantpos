@@ -1,0 +1,10 @@
+1,Single Cheeseburger,Single hamburger with cheese,2.990000
+1,Double Cheeseburger,Double hamburger with cheese,3.990000
+1,Taco Salad,Salad with taco beef,5.990000
+2,Nachos,Nachos with cheese,5.990000
+2,Fried Pickles,Deep fried pickles,5.990000
+3,French Fries,French Fries,1.990000
+3,Onion Rings,Onion Rings,1.990000
+3,Cup of Chili,Cup of chili with cheese and onions,2.990000
+4,Coke,Regular Coke,1.290000
+4,Diet Coke,Diet Coke,1.280000
